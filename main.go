@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./process"
+	"./src/process"
 	"strconv"
 )
 
